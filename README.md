@@ -16,4 +16,4 @@ Firebase 의 google-services.json 및 build.gradle 수정을 통해 Firebase 프
 
 * Firebase 프로젝트 스크린샷    
 
-![Alt text](./IMG/FirebaseIMG.jpg)
+![Alt text](./IMG/FirebaseIMG.JPG)
