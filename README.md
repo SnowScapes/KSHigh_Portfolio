@@ -15,6 +15,9 @@ Cordova를 이용해 만든 Hybrid 포트폴리오 앱 입니다.
 
 * 앱 동작 스크린샷    
 
+![SC1](./Portfolio01.png)
+![SC2](./Portfolio02.png)
+
 ---    
 
 ### 추가하고 싶은 사항
