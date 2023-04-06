@@ -18,7 +18,7 @@
 ---
 ### 특징
 
-*Netlify 호스팅을 통한 HostedWebApp
+* Netlify 호스팅을 통한 HostedWebApp
 
 ---
 ### 추가하고 싶은 점    
