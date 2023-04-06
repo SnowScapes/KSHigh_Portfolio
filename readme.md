@@ -22,7 +22,7 @@
 
 ---
 ### 추가하고 싶은 점    
-<img src="/imgs/Firebase.JPG" width="300" height="550"> 
+<img src="/imgs/FirebaseIMG.JPG" width="300" height="550"> 
 ---
 ### 호스팅 페이지
 [Netlify](https://642f2bfc24e80a05334ded69--gorgeous-kangaroo-075086.netlify.app)
