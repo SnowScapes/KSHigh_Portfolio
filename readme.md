@@ -13,6 +13,7 @@
 
 ---
 ### 실행 스크린샷    
+<img src="/IMG/Portfolio.png" width="300" height="550">    
 
 ---
 ### 특징
