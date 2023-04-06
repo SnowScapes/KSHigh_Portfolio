@@ -22,7 +22,10 @@
 
 ---
 ### 추가하고 싶은 점    
-<img src="/IMG/FirebaseIMG.JPG" width="600" height="300">    
+<img src="/IMG/FirebaseIMG.JPG" width="600" height="300">     
+
+> Firebase의 데이터베이스 서비스를 이용하기 위해 프로젝트를 만들고 Plugin 추가까지 했지만 Hosted Web app과
+> 함께 사용하는 것이 어려웠음
 
 ---
 ### 호스팅 페이지
