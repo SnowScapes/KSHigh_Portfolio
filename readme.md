@@ -27,5 +27,9 @@
 * Firebase의 데이터베이스 서비스를 이용하기 위해 프로젝트를 만들고 Plugin 추가까지 했지만 Hosted Web app과 함께 사용하는 것이 어려웠음
 
 ---
+### Reference
+[HostedWebApp](https://bundw.tistory.com/64)
+
+
 ### 호스팅 페이지
 [Netlify](https://642f2bfc24e80a05334ded69--gorgeous-kangaroo-075086.netlify.app)
